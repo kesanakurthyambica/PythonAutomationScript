@@ -1,3 +1,4 @@
+#import the dependencies
 #import xml.etree.ElementTree as ET
 
 # Load and parse the TGML file
